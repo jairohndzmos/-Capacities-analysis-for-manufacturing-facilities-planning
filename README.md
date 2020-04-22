@@ -21,7 +21,8 @@ Fry  | Variable
 <div style="text-align: justify"> 
 As shown, the last one refers up to Frying process, has their owns considerations 
 </div>
-[![](https://i.imgur.com/Ihcgq9j.png)](https://i.imgur.com/Ihcgq9j.png)
+
+![](https://i.imgur.com/Ihcgq9j.png)
 
 <div style="text-align: justify"> 
 No matter how much others elements are connected and the intensity flowing around as long as the linear system stayed satisfied
